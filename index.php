@@ -51,7 +51,6 @@ include 'koneksi.php';
     <body>
 	
 		<!-- Preloader -->
-	    <h1>Hallo</h1>
         <div class="preloader">
             <div class="loader">
                 <div class="loader-outter"></div>
