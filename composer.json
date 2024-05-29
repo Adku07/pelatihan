@@ -1,0 +1,13 @@
+{
+    "name": "adam/pelatihan",
+    "description": "web pelatihan",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
