@@ -9,5 +9,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"  // Menambahkan PHPUnit sebagai dependensi pengembang
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
 }
