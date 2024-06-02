@@ -1,8 +1,11 @@
 {
+    "name": "adam/pelatihan",
+    "description": "Website pelatihan",
     "require-dev": {
         "phpunit/phpunit": "^9"
     },
     "scripts": {
         "test": "vendor/bin/phpunit"
-    }
+    },
+    "license": "proprietary"
 }
