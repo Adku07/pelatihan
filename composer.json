@@ -5,7 +5,7 @@
         "phpunit/phpunit": "^9"
     },
     "scripts": {
-        "test": "src/"
+        "test": "src"
     },
     "license": "proprietary"
 }
