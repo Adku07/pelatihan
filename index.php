@@ -1,7 +1,7 @@
 <?php
     session_start();
 include 'koneksi.php';
-?>
+
 
 <!doctype html>
 <php class="no-js" lang="zxx">
