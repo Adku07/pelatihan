@@ -1,10 +1,10 @@
 <?php
     session_start();
 include 'koneksi.php';
+?>
 
-
-<!doctype html>
-<php class="no-js" lang="zxx">
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <!-- Meta Tags -->
 		<meta charset="utf-8">
@@ -591,4 +591,4 @@ include 'koneksi.php';
 		<!-- Main JS -->
 		<script src="js/main.js"></script>
     </body>
-</php>
+</html>
